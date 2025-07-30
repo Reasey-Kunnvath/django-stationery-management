@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from . import models
-from dashboard.common import common
+from login.common import common
 import sweetify
 
 # Create your views here.

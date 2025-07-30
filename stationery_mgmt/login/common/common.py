@@ -1,4 +1,4 @@
-from dashboard import models
+from login import models
 
 
 def auth(username, password):
